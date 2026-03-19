@@ -1,98 +1,93 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=35&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Kyle+Pillay!;Developer+%7C+Designer+%7C+Tech+Explorer;Welcome+to+My+GitHub+Profile!+🚀" />
-</h1>
+<h1 align="center">Kyle Pillay</h1>
 
 <p align="center">
-  🌟 Final-Year Application Development Student | South Africa  
-  <br>
-  💻 Full-Stack Learner • UI/UX Enthusiast • Creative Problem Solver  
+  <strong>Final-Year Application Development Student &nbsp;·&nbsp; South Africa 🇿🇦</strong>
+</p>
+
+<p align="center">
+  Full-Stack Developer &nbsp;|&nbsp; UI/UX Enthusiast &nbsp;|&nbsp; Creative Problem Solver
+</p>
+
+<p align="center">
+  <a href="mailto:kylepillay017@example.com">📧 kylepillay017@example.com</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/KylePillay2006">github.com/KylePillay2006</a>
 </p>
 
 ---
 
-## 🎨 About Me
-I'm **Kyle Pillay**, a passionate developer focused on building modern, functional, and clean applications across:
+## About Me
 
-- 🌐 Web Development (React, ASP.NET MVC)  
-- 🖥 Desktop Apps (C#, WPF, WinForms)  
-- 🐍 Python Automation & Scripts  
-- 🍃 MongoDB & Database Design  
-- 🛡 Cybersecurity Awareness Projects  
+I'm a final-year Application Development student with a passion for building clean, functional software across the full stack. I enjoy turning real-world problems into polished digital solutions — from interactive web apps to desktop tools and automation scripts.
 
-I love improving my skills through real projects and experimenting with new technologies.
+My focus areas include:
+
+- **Web Development** — React, ASP.NET MVC, HTML/CSS/JavaScript
+- **Desktop Applications** — C#, WPF, WinForms
+- **Backend & Databases** — ASP.NET Core, MongoDB, MySQL
+- **Scripting & Automation** — Python (100+ projects)
+- **Cloud & DevOps** — Azure (learning)
+- **Security** — Cybersecurity awareness tools
+
+I learn best by building. Every project in my repositories reflects a concept I explored hands-on.
 
 ---
 
-# 🚀 Featured Tech Stacks
+## Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,cs,dotnet,java,python,mongodb,mysql,azure,git,vscode,visualstudio" />
 </p>
 
 ---
 
-# 📚 Featured Repositories  
-### 🔥 Click a Project Image to Visit the Repo!
+## Featured Repositories
+
+| Repository | Description | Language |
+|---|---|---|
+| [Python Projects](https://github.com/KylePillay2006/Python-Projects) | 100+ Python scripts and projects covering automation, data processing, games, and more | Python |
+| [React Projects](https://github.com/KylePillay2006/React-Projects) | Component-based React apps exploring hooks, state management, and modern UI patterns | JavaScript |
+| [MongoDB Foundations](https://github.com/KylePillay2006/MongoDB-Foundations) | 10+ projects covering CRUD, aggregation pipelines, indexing, and schema design | MongoDB |
+| [Cybersecurity Chatbot](https://github.com/KylePillay2006/Cybersecurity-Chatbot) | C# chatbot that educates users on cybersecurity best practices and threat awareness | C# |
+| [C# Tutorials](https://github.com/KylePillay2006/CSharpTutorials) | Structured exercises covering OOP, LINQ, WinForms, and .NET fundamentals | C# |
+| [Java Tutorials](https://github.com/KylePillay2006/JavaTutorials) | Core Java concepts including classes, interfaces, collections, and file I/O | Java |
+| [Python Tutorials](https://github.com/KylePillay2006/PythonTutorials) | Foundational and intermediate Python — functions, modules, OOP, and libraries | Python |
+| [React Tutorials](https://github.com/KylePillay2006/ReactTutorials) | Step-by-step React learning: JSX, hooks, routing, and component architecture | JavaScript |
 
 ---
 
-### 🐍 **Python Projects Portfolio (100+ Projects)**  
-<a href="https://github.com/KylePillay2006/Python-Projects" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120" />
-</a>
+## GitHub Stats
 
----
-
-### 🍃 **MongoDB Foundations (10+ Projects)**  
-<a href="https://github.com/KylePillay2006/MongoDB-Foundations" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="120" />
-</a>
-
----
-
-### ⚛️ **React Projects**  
-<a href="https://github.com/KylePillay2006/React-Projects" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="120" />
-</a>
-
----
-
-### 🛡️ **Cybersecurity Awareness Chatbot (C#)**  
-<a href="https://github.com/KylePillay2006/Cybersecurity-Chatbot" target="_blank">
-   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/120/000000/external-cybersecurity-security-flaticons-lineal-color-flat-icons.png"/>
-</a>
-
----
-
-# 📊 GitHub Stats  
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KylePillay2006&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KylePillay2006&layout=compact&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KylePillay2006&show_icons=true&theme=tokyonight&hide_border=true" />
+  &nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KylePillay2006&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-# 🔥 Streak Stats  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KylePillay2006&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🎯 Currently Learning
-- MongoDB advanced concepts  
-- React component architectures  
-- ASP.NET Core & Azure  
-- Full-stack development  
-- UI/UX improvements  
+## Currently Learning
+
+- Advanced MongoDB — aggregation, transactions, performance tuning
+- ASP.NET Core — RESTful APIs and MVC architecture
+- Azure — cloud deployment and services
+- React — component design patterns and state management
+- UI/UX — design principles and accessibility
 
 ---
 
-# 📫 Contact Me
-- 📧 Email: **kylepillay017@example.com**  
-- 🌐 GitHub: **[KylePillay2006](https://github.com/KylePillay2006)**  
+## Let's Connect
+
+I'm open to junior developer roles, internships, and collaborative projects. Feel free to explore my repositories or reach out directly.
+
+📧 **kylepillay017@example.com**
+&nbsp;&nbsp;|&nbsp;&nbsp;
+🌐 **[github.com/KylePillay2006](https://github.com/KylePillay2006)**
 
 ---
 
-<p align="center">
-  <strong>✨ “Code. Create. Learn. Grow.” ✨</strong>
-</p>
+<p align="center"><em>"Code. Create. Learn. Grow."</em></p>
