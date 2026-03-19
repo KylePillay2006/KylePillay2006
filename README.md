@@ -45,7 +45,6 @@ I learn best by building. Every project in my repositories reflects a concept I 
 
 | Repository | Description | Language |
 |---|---|---|
-| [Python Projects](https://github.com/KylePillay2006/Python-Projects) | 100+ Python scripts and projects covering automation, data processing, games, and more | Python |
 | [React Projects](https://github.com/KylePillay2006/React-Projects) | Component-based React apps exploring hooks, state management, and modern UI patterns | JavaScript |
 | [MongoDB Foundations](https://github.com/KylePillay2006/MongoDB-Foundations) | 10+ projects covering CRUD, aggregation pipelines, indexing, and schema design | MongoDB |
 | [Cybersecurity Chatbot](https://github.com/KylePillay2006/Cybersecurity-Chatbot) | C# chatbot that educates users on cybersecurity best practices and threat awareness | C# |
